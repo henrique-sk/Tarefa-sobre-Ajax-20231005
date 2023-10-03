@@ -1,0 +1,52 @@
+{
+  "animals": [
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg",
+      "name": "Gato"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2018/01/28/12/37/penguin-3112331_960_720.jpg",
+      "imagemUrl": "https://cdn.pixabay.com/photo/2016/11/29/03/44/animal-1867125_1280.jpg",
+      "name": "Pinguim"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg",
+      "name": "Gato 2"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2015/08/06/17/23/raccoon-879488_960_720.jpg",
+      "imagemUrl": "https://cdn.pixabay.com/photo/2018/07/14/17/46/raccoon-3538081_1280.jpg",
+      "name": "Guaxinim"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2014/08/26/15/28/lion-428177_960_720.jpg",
+      "imagemUrl": "https://media.istockphoto.com/id/1173184751/pt/foto/asiatic-lion-a-critically-endangered-species.jpg?s=1024x1024&w=is&k=20&c=oGX_7Ml_Z24t-036EKAttGkFZowhh1BpO-d9YDcfA9M=",
+      "name": "Leão"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2018/05/09/21/05/bird-3385271_960_720.jpg",
+      "imagemUrl": "https://media.istockphoto.com/id/1008090804/pt/foto/amazon-rainforest.jpg?s=1024x1024&w=is&k=20&c=PfZa_GpitTibmg2Xv-tYyPfZRzgt2YhR1UN3P45JcaE=",
+      "name": "Pássaro"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2015/06/08/15/18/tiger-801609_960_720.jpg",
+      "imagemUrl": "https://media.istockphoto.com/id/1178681916/pt/foto/sumatrean-tiger.jpg?s=1024x1024&w=is&k=20&c=HiqufDCIy-KF8Nfw1euAYlTixhIr7eWsIMnxs2k95kw=",
+      "name": "Tigre"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2017/05/18/13/32/giraffe-2320562_960_720.jpg",
+      "imagemUrl": "https://media.istockphoto.com/id/488580536/pt/foto/girafa-na-frente-de-kilimanjaro-montanha.jpg?s=1024x1024&w=is&k=20&c=EE2qMO7QxA38iO-y1RuWbWOoDQ2VCnnr8CAEAIiNV5A=",
+      "name": "Girafa"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2017/09/07/08/54/elephant-2726022_960_720.jpg",
+      "imagemUrl": "https://media.istockphoto.com/id/1128748845/pt/foto/group-of-african-elephants-in-the-wild.jpg?s=1024x1024&w=is&k=20&c=tN3sGH6IG81A8FnYWI7Cs8i6J3v7nA-F_eVEqI_LqIE=",
+      "name": "Elefante"
+    },
+    {
+      "imagemUrl": "https://cdn.pixabay.com/photo/2016/11/22/21/42/primate-1853558_960_720.jpg",
+      "imagemUrl": "https://cdn.pixabay.com/photo/2021/05/17/06/35/barbary-monkey-6259902_1280.jpg",
+      "name": "Macaco"
+    }
+  ]
+}
